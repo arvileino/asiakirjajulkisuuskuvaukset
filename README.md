@@ -210,7 +210,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Polvijärvi|-|
 |Pomarkku|-|
 |Pori|-|
-|Pornainen|-|
+|Pornainen|[kuvaus](https://pornainen.fi/kunta-hallinto/asiakirjajulkisuuskuvaus/)|
 |Porvoo|-|
 |Posio|-|
 |Pudasjärvi|-|
@@ -298,7 +298,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Vaala|[kuvaus](https://www.vaala.fi/hallinto-ja-paatoksenteko/organisaatio/saavutettavuus-ja-tietosuojaselosteet/)|
 |Vaasa|[kuvaus](https://www.vaasa.fi/tietoa-vaasasta-ja-seudusta/tietosuoja/tietosuoja-vaasan-kaupungilla/asiakirjajulkisuuskuvaus/)|
 |Valkeakoski|-|
-|Vantaa|-|
+|Vantaa|[kuvaus](https://www.vantaa.fi/hallinto_ja_talous/hallinto/asiakirjajulkisuuskuvaus)|
 |Varkaus|-|
 |Vehmaa|-|
 |Vesanto|-|
