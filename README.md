@@ -46,14 +46,14 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Hirvensalmi|-|
 |Hollola|-|
 |Huittinen|-|
-|Humppila|-|
+|Humppila|[kuvaus](https://www.humppila.fi/kunta-ja-hallinto/asiointi-ja-lomakkeet/asiakirjajulkisuuskuvaus/)|
 |Hyrynsalmi|-|
 |Hyvinkää|-|
 |Hämeenkyrö|-|
 |Hämeenlinna|-|
 |Ii|-|
 |Iisalmi|-|
-|Iitti|-|
+|Iitti|[kuvaus](https://www.iitti.fi/asiakirjajulkisuuskuvaus)|
 |Ikaalinen|-|
 |Ilmajoki|-|
 |Ilomantsi|-|
@@ -171,7 +171,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Muonio|-|
 |Mustasaari|-|
 |Muurame|-|
-|Mynämäki|-|
+|Mynämäki|[kuvaus](https://www.mynamaki.fi/kunta-ja-hallinto/paatoksenteko/asiakirjajulkisuuskuvaus/)|
 |Myrskylä|-|
 |Mäntsälä|-|
 |Mänttä-Vilppula|-|
@@ -223,7 +223,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Pyhäjärvi|-|
 |Pyhäntä|-|
 |Pyhäranta|-|
-|Pälkäne|-|
+|Pälkäne|[kuvaus](https://www.palkane.fi/kunta-ja-hallinto/asiointi/asiakirjajulkisuuskuvaus)|
 |Pöytyä|-|
 |Raahe|-|
 |Raasepori|-|
