@@ -40,7 +40,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Hartola|-|
 |Hattula|-|
 |Hausjärvi|-|
-|Heinola|-|
+|Heinola|[kuvaus](https://www.heinola.fi/kaupunki-ja-paatoksenteko/asiointipalvelu/asiakirjajulkisuuskuvaus/)|
 |Heinävesi|-|
 |Helsinki|[kuvaus](https://www.hel.fi/helsinki/fi/kaupunki-ja-hallinto/hallinto/kaupungin-asiakirjojen-julkisuus)|
 |Hirvensalmi|-|
@@ -73,7 +73,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Juva|-|
 |Jyväskylä|[kuvaus](https://www.jyvaskyla.fi/sites/default/files/atoms/files/asiakirjajulkisuuskuvaus.pdf)|
 |Jämijärvi|-|
-|Jämsä|-|
+|Jämsä|[kuvaus](https://www.jamsa.fi/paatoksenteko/julkisuus-ja-tietopyynnoet)|
 |Järvenpää|-|
 |Kaarina|-|
 |Kaavi|-|
@@ -124,9 +124,9 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Kumlinge|-|
 |Kuopio|-|
 |Kuortane|-|
-|Kurikka|-|
+|Kurikka|[kuvaus](https://kurikka.fi/kaupunki-ja-hallinto/tietosuoja/)|
 |Kustavi|-|
-|Kuusamo|-|
+|Kuusamo|[kuvaus](https://www.kuusamo.fi/kaupunki-ja-hallinto/tietosuoja-ja-tietoturva/asiakirjajulkisuuskuvaus/)|
 |Kyyjärvi|-|
 |Kärkölä|-|
 |Kärsämäki|-|
@@ -176,7 +176,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Mäntsälä|-|
 |Mänttä-Vilppula|-|
 |Mäntyharju|-|
-|Naantali|-|
+|Naantali|[kuvaus](https://www.naantali.fi/fi/osallistuminen-ja-paatoksenteko/ota-yhteytta/kirjaamo-ja-arkistot/asiakirjajulkisuuskuvaus)|
 |Nakkila|-|
 |Nivala|-|
 |Nokia|-|
@@ -186,7 +186,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Närpiö|-|
 |Orimattila|-|
 |Oripää|[kuvaus](https://oripaa.fi/hallinto/asiakirjajulkisuuskuvaus/)|
-|Orivesi|-|
+|Orivesi|[kuvaus](https://orivesi.fi/kaupunkimme/kaupunki/asiakirjajulkisuuskuvaus/)|
 |Oulainen|-|
 |Oulu|-|
 |Outokumpu|-|
@@ -314,7 +314,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Vöyri|-|
 |Ylitornio|-|
 |Ylivieska|-|
-|Ylöjärvi|-|
+|Ylöjärvi|[kuvaus](https://www.ylojarvi.fi/library/files/5fe1b80a475a6c6e771942b4/Asiakirjajulkisuuskuvaus.pdf)|
 |Ypäjä|-|
 |Ähtäri|-|
 |Äänekoski|-|
