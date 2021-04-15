@@ -20,7 +20,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Eckerö|-|
 |Enonkoski|-|
 |Enontekiö|-|
-|Espoo|-|
+|Espoo|[kuvaus](https://www.espoo.fi/fi-FI/Asioi_verkossa/Tietopyynnot/Asiakirjajulkisuuskuvaus)|
 |Eura|-|
 |Eurajoki|-|
 |Evijärvi|-|
@@ -32,7 +32,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Haapavesi|-|
 |Hailuoto|-|
 |Halsua|-|
-|Hamina|-|
+|Hamina|[kuvaus](https://www.hamina.fi/asukkaalle/wp-content/uploads/sites/12/2021/01/Asiakirjajulkisuuskuvaus-Hamina-.pdf)|
 |Hammarland|-|
 |Hankasalmi|-|
 |Hanko|-|
@@ -42,7 +42,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Hausjärvi|-|
 |Heinola|-|
 |Heinävesi|-|
-|Helsinki|-|
+|Helsinki|[kuvaus](https://www.hel.fi/helsinki/fi/kaupunki-ja-hallinto/hallinto/kaupungin-asiakirjojen-julkisuus)|
 |Hirvensalmi|-|
 |Hollola|[kuvaus](https://www.hollola.fi/asiakirjajulkisuuskuvaus)|
 |Huittinen|-|
@@ -54,7 +54,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Ii|-|
 |Iisalmi|-|
 |Iitti|[kuvaus](https://www.iitti.fi/asiakirjajulkisuuskuvaus)|
-|Ikaalinen|-|
+|Ikaalinen|[kuvaus](https://ikaalinen.fi/wp-content/uploads/2021/01/Asiakirjajulkisuuskuvaus.pdf)|
 |Ilmajoki|-|
 |Ilomantsi|-|
 |Imatra|-|
@@ -71,7 +71,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Juuka|-|
 |Juupajoki|-|
 |Juva|-|
-|Jyväskylä|-|
+|Jyväskylä|[kuvaus](https://www.jyvaskyla.fi/sites/default/files/atoms/files/asiakirjajulkisuuskuvaus.pdf)|
 |Jämijärvi|-|
 |Jämsä|-|
 |Järvenpää|-|
@@ -79,9 +79,9 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Kaavi|-|
 |Kajaani|-|
 |Kalajoki|-|
-|Kangasala|-|
+|Kangasala|[kuvaus](https://www.kangasala.fi/kaupunki-ja-paatoksenteko/asiointi/asiakirjajulkisuuskuvaus/)|
 |Kangasniemi|-|
-|Kankaanpää|-|
+|Kankaanpää|[kuvaus](https://www.kankaanpaa.fi/kaupunki-ja-hallinto/asiointi/asiakirjajulkisuuskuvaus/#)|
 |Kannonkoski|-|
 |Kannus|-|
 |Karijoki|-|
@@ -147,7 +147,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Lestijärvi|-|
 |Lieksa|-|
 |Lieto|-|
-|Liminka|-|
+|Liminka|[kuvaus](http://www.liminka.fi/sivu/fi/paatoksenteko/asiakirjajulkisuus/)|
 |Liperi|[kuvaus](https://www.liperi.fi/fi/asiakirjajulkisuuskuvaus)|
 |Lohja|-|
 |Loimaa|-|
@@ -165,7 +165,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Merijärvi|-|
 |Merikarvia|-|
 |Miehikkälä|-|
-|Mikkeli|-|
+|Mikkeli|[kuvaus](https://hallinta-mikkeli.kunta-api.fi/wp-content/uploads/2020/12/Mikkelin_kaupungin_asiakirjajulkisuuskuvaus_1.1.2021.pdf)|
 |Muhos|-|
 |Multia|-|
 |Muonio|-|
@@ -272,11 +272,11 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Suonenjoki|-|
 |Sysmä|-|
 |Säkylä|-|
-|Taipalsaari|-|
+|Taipalsaari|[kuvaus](https://www.taipalsaari.fi/loader.aspx?id=434c597c-fcfd-42c8-b0bd-36f6d903e063)|
 |Taivalkoski|-|
 |Taivassalo|-|
 |Tammela|-|
-|Tampere|-|
+|Tampere|[kuvaus](https://www.tampere.fi/tampereen-kaupunki/yhteystiedot-ja-asiointi/verkkoasiointi/tietosuoja/asiakirjajulkisuuskuvaus.html)|
 |Tervo|-|
 |Tervola|-|
 |Teuva|[kuvaus](https://teuva.fi/images/hallinto/rekisteriselosteet/Asiakirjajulkisuuskuvaus%20Teuva.pdf)|
@@ -288,7 +288,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Tuusniemi|-|
 |Tuusula|[kuvaus](https://www.tuusula.fi/sivu.tmpl?sivu_id=9761)|
 |Tyrnävä|[kuvaus](https://www.tyrnava.fi/asiakirjajulkisuuskuvaus)|
-|Ulvila|-|
+|Ulvila|[kuvaus](https://www.ulvila.fi/wp-content/uploads/2020/12/Ulvilan-kaupunki-Asiakirjajulkisuuskuvaus.pdf)|
 |Urjala|-|
 |Utajärvi|-|
 |Utsjoki|-|
