@@ -1,7 +1,7 @@
 # Asiakirjajulkisuuskuvaukset
 
 [Lain julkisen hallinnon tiedonhallinnasta](https://www.finlex.fi/fi/laki/alkup/2019/20190906) 
-[pykälässä 28](https://www.finlex.fi/fi/laki/alkup/2019/20190906#Pidp445999360) säädetään, 
+[pykälässä 28](https://www.finlex.fi/fi/laki/alkup/2019/20190906#Pidp447168544) säädetään, 
 että tiedonhallintayksikön on julkisuusperiaatteen toteuttamista varten ylläpidettävä 
 kuvausta sen hallinnoimista tietovarannoista ja asiarekisteristä.
 
