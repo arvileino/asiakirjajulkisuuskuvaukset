@@ -44,7 +44,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Heinävesi|-|
 |Helsinki|-|
 |Hirvensalmi|-|
-|Hollola|-|
+|Hollola|[kuvaus](https://www.hollola.fi/asiakirjajulkisuuskuvaus)|
 |Huittinen|-|
 |Humppila|[kuvaus](https://www.humppila.fi/kunta-ja-hallinto/asiointi-ja-lomakkeet/asiakirjajulkisuuskuvaus/)|
 |Hyrynsalmi|-|
@@ -87,7 +87,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Karijoki|-|
 |Karkkila|-|
 |Karstula|-|
-|Karvia|-|
+|Karvia|[kuvaus](https://karvia.fi/asiakirjajulkisuuskuvaus/)|
 |Kaskinen|-|
 |Kauhajoki|-|
 |Kauhava|-|
@@ -97,9 +97,9 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Kemi|-|
 |Kemijärvi|-|
 |Keminmaa|-|
-|Kemiönsaari|-|
-|Kempele|-|
-|Kerava|-|
+|Kemiönsaari|[kuvaus](https://www.kemionsaari.fi/fi/kunta_paatoksenteko/asiakirjajulkisuuskuvaus)|
+|Kempele|[kuvaus](https://www.kempele.fi/kunta-ja-hallinto/asiakirjajulkisuuskuvaus)|
+|Kerava|[kuvaus](https://kerava.fi/palvelut/päätöksenteko-ja-hallinto/asiakirjajulkisuuskuvaus)|
 |Keuruu|-|
 |Kihniö|-|
 |Kinnula|-|
@@ -185,7 +185,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Nurmijärvi|-|
 |Närpiö|-|
 |Orimattila|-|
-|Oripää|-|
+|Oripää|[kuvaus](https://oripaa.fi/hallinto/asiakirjajulkisuuskuvaus/)|
 |Orivesi|-|
 |Oulainen|-|
 |Oulu|-|
