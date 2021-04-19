@@ -125,7 +125,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Kuopio|-|
 |Kuortane|-|
 |Kurikka|[kuvaus](https://kurikka.fi/kaupunki-ja-hallinto/tietosuoja/)|
-|Kustavi|[kustavi](https://kustavi.fi/kunta-ja-hallinto/asiakirjajulkisuus/)|
+|Kustavi|[kuvaus](https://kustavi.fi/kunta-ja-hallinto/asiakirjajulkisuus/)|
 |Kuusamo|[kuvaus](https://www.kuusamo.fi/kaupunki-ja-hallinto/tietosuoja-ja-tietoturva/asiakirjajulkisuuskuvaus/)|
 |Kyyjärvi|-|
 |Kärkölä|-|
