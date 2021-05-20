@@ -103,7 +103,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Keuruu|-|
 |Kihniö|-|
 |Kinnula|-|
-|Kirkkonummi|-|
+|Kirkkonummi|[kuvaus](https://www.kirkkonummi.fi/tietosuoja)|
 |Kitee|-|
 |Kittilä|-|
 |Kiuruvesi|-|
@@ -233,7 +233,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Rauma|-|
 |Rautalampi|-|
 |Rautavaara|[kuvaus](https://www.rautavaara.fi/asukkaille/kuntani-rautavaara/asiointi-ja-yhteydenotto/asiakirjajulkisuuskuvaus/)|
-|Rautjärvi|-|
+|Rautjärvi|[kuvaus](http://www.rautjarvi.fi/fi/Kunta-ja-hallinto/Aineisto-ja-tietopalvelu)|
 |Reisjärvi|-|
 |Riihimäki|-|
 |Ristijärvi|-|
@@ -304,7 +304,7 @@ Alla on lista kuntien verkkosivuilta löytyneistä asiakirjajulkisuuskuvauksista
 |Vesanto|-|
 |Vesilahti|-|
 |Veteli|-|
-|Vieremä|-|
+|Vieremä|[kuvaus](https://www.vierema.fi/fi/Paatoksenteko/Asiakirjajulkisuuskuvaus)|
 |Vihti|-|
 |Viitasaari|-|
 |Vimpeli|-|
